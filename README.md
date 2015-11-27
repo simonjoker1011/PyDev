@@ -1,2 +1,0 @@
-# PyDev
-Python Development
